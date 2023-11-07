@@ -14,6 +14,7 @@ So every 120 seconds (you can modify that) it creates new .txt file and sends it
 Program can be seen on task manager, so you can end task from that.
 
 ## SCREENSHOTS
+Exported log file
 ![](https://github.com/khalafnasirov/Media-of-Repositories/blob/82ec63e4c884e01207cbe092d5a3b2eddf7a717c/Key-Logger/Screenshot%202023-11-07%20100417.png)
 
 ## HOW TO TURN THIS INTO EXECUTABLE FILE
