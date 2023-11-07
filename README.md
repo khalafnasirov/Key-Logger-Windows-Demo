@@ -8,7 +8,7 @@ For python
 `pip install keyboard`
 `pip install pygetwindow pynput`
 
-* It only works on windows system
+* If PyInstaller executed it will only being work on windows system
 
 ## HOW IS IT WORKING?
 Once you run this script it starts run on background silently tracking your every keyboard input and collect them in one data. It also record what is your active window.
