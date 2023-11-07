@@ -1,7 +1,7 @@
 # KEY LOGGER FOR WINDOWS
 
 ## WHAT IS IT?
-kE
+Keyboard input logger for windows which sends information through email service to your email in every selected time interval
 
 ## REQUIREMENTS
 For python
