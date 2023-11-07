@@ -19,6 +19,12 @@ Program can be seen on task manager, so you can end task from that.
 Exported log file
 ![](https://github.com/khalafnasirov/Media-of-Repositories/blob/82ec63e4c884e01207cbe092d5a3b2eddf7a717c/Key-Logger/Screenshot%202023-11-07%20100417.png)
 
+## MODIFABLE PARTS
+  * `sender_email` - Email you use to send to other email
+  * `recipient_email` - Email you send file to
+  * `password` - Go to your google email account and search for *App Passwords* in search tab (!If it doesn't appear make you sure enable two-factor authontication)
+  * `task_interval` - Time interval program sends file to email 
+
 ## HOW TO TURN THIS INTO EXECUTABLE FILE
 First install this module
 `pip install pyinstaller`
