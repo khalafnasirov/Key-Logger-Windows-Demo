@@ -1,5 +1,4 @@
-# Key-Logger-Windows-Demo
-Educational Purpose
+# KEY LOGGER FOR WINDOWS
 
 ## WHAT IS IT?
 
