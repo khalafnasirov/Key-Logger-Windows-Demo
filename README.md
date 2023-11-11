@@ -29,4 +29,4 @@ Exported log file
 First install this module
 `pip install pyinstaller`
 Then run this command to make .exe file
-`python3 -m PyInstaller --onefile --noconsole ./yourscript.py`
+`python3 -m PyInstaller --onefile --noconsole ./writing_logger.py`
